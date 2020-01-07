@@ -3,7 +3,7 @@
 ## Welcome
 Welcome to the Tranzlife UI/UX Challenge. Here you'll find some examples to reach your goal.
 
-This repo have  pdf file to preview the UI Design. For image and assets please visit the live url . 
+This repo have  pdf file to preview the UI Design. For image and assets please visit the live url . </br>
 Live Url :(https://www.figma.com/file/4wQrSReIDVsaZy4nSh9Z1y/TranzlifeUI-UX-Challenge?node-id=0%3A1)
 
 ## Goal
