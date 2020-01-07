@@ -7,7 +7,7 @@ This repo have  pdf file to preview the UI Design. For image and assets please v
 Live Url :(https://www.figma.com/file/4wQrSReIDVsaZy4nSh9Z1y/TranzlifeUI-UX-Challenge?node-id=0%3A1)
 
 ## Goal
-You just need to implement 3 HTML/CSS/Js pages that are close to the mock ups.
+You just need to implement HTML/CSS/Js pages that are close to the mock ups.
 
 
 ## Questions
